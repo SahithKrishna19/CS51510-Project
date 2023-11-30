@@ -14,10 +14,10 @@ This project delves into the world of graph algorithms, integral to Data Structu
 #### 2. Data Verification:
 - This step includes of confirming the accuracy, consistency and completeness of the data to ensure it aligns with predefined standards.
 - It mainly includes a check where it verifies if every city is connected to other city by any means and this done using the breadth first search (**BFS**).
-- Run the same [LDP.java] code to verify your data.
+- Run the same [LDP.java](LDP.java) code to verify your data.
      
 #### 3. Optimal path
 - To determine the optimal path using Kruskal's or Prim's algorithms, focus on constructing the Minimum Spanning Tree (MST) of the interconnected cities on the map. These algorithms systematically select edges with minimal associated costs, ensuring the creation of an efficient tree that spans all cities.
 
-- Once the MST [MST.java] is established, you can extend the pathfinding capabilities by incorporating additional graph algorithms like Djikstra's or Bellman Ford. These algorithms work synergistically, providing an optimized solution for traversing the geographical map, considering both the MST structure and individual edge costs. By seamlessly integrating Kruskal's or Prim's algorithms with pathfinding approaches, your code achieves a holistic strategy for finding the optimal path in the context of the constructed map.
-To find the optimal path using the implemented algorithms, initiate the pathfinding process by specifying the source and destination nodes in the [OptimalPath.java]. 
+- Once the MST [MST.java](MST.java) is established, you can extend the pathfinding capabilities by incorporating additional graph algorithms like Djikstra's or Bellman Ford. These algorithms work synergistically, providing an optimized solution for traversing the geographical map, considering both the MST structure and individual edge costs. By seamlessly integrating Kruskal's or Prim's algorithms with pathfinding approaches, the code achieves a holistic strategy for finding the optimal path in the context of the constructed map.
+- To find the optimal path using the implemented algorithms, initiate the pathfinding process by specifying the source and destination nodes in the [OptimalPath.java](OptimalPath.java). 
