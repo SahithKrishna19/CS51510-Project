@@ -17,13 +17,15 @@ This project delves into the world of graph algorithms, integral to Data Structu
 - Run the same [LDP.java](LDP.java) code to verify your data.
      
 #### 3. Optimal path
-- To determine the optimal path using Kruskal's or Prim's algorithms, focus on constructing the Minimum Spanning Tree (MST) of the interconnected cities on the map. These algorithms systematically select edges with minimal associated costs, ensuring the creation of an efficient tree that spans all cities.
+- [OptimalPath.java](OptimalPath.java) is sort of the main file which uses [MST.java](MST.java) and [MapVisualize.java](MapVisualize.java) file classes as well. 
 
+- To determine the optimal path using Kruskal's or Prim's algorithms, focus on constructing the Minimum Spanning Tree (MST) of the interconnected cities on the map. These algorithms systematically select edges with minimal associated costs, ensuring the creation of an efficient tree that spans all cities.
 - Once the MST [MST.java](MST.java) is established, you can extend the pathfinding capabilities by incorporating additional graph algorithms like Djikstra's or Bellman Ford. These algorithms work synergistically, providing an optimized solution for traversing the geographical map, considering both the MST structure and individual edge costs. By seamlessly integrating Kruskal's or Prim's algorithms with pathfinding approaches, the code achieves a holistic strategy for finding the optimal path in the context of the constructed map.
 - To find the optimal path using the implemented algorithms, initiate the pathfinding process by specifying the source and destination nodes in the [OptimalPath.java](OptimalPath.java). 
 - This java file [OptimalPath.java](OptimalPath.java) not only identifies and outputs the most efficient route but also provides comprehensive information about the path, including details on the traversals made.
 #### 4. Visualize 
 - The [MapVisualize.java](MapVisualize.java) code, empowers the graphical depiction of our constructed map and the outcomes of the implemented algorithms. This visual representation enhances comprehension of the optimal path, Minimum Spanning Tree (MST), and other pertinent information derived from the project.
+
 
 ## Contributing
 
