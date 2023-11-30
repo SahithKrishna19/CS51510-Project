@@ -21,3 +21,16 @@ This project delves into the world of graph algorithms, integral to Data Structu
 
 - Once the MST [MST.java](MST.java) is established, you can extend the pathfinding capabilities by incorporating additional graph algorithms like Djikstra's or Bellman Ford. These algorithms work synergistically, providing an optimized solution for traversing the geographical map, considering both the MST structure and individual edge costs. By seamlessly integrating Kruskal's or Prim's algorithms with pathfinding approaches, the code achieves a holistic strategy for finding the optimal path in the context of the constructed map.
 - To find the optimal path using the implemented algorithms, initiate the pathfinding process by specifying the source and destination nodes in the [OptimalPath.java](OptimalPath.java). 
+- This java file [OptimalPath.java](OptimalPath.java) not only identifies and outputs the most efficient route but also provides comprehensive information about the path, including details on the traversals made.
+#### 4. Visualize 
+- The [MapVisualize.java](MapVisualize.java) code, empowers the graphical depiction of our constructed map and the outcomes of the implemented algorithms. This visual representation enhances comprehension of the optimal path, Minimum Spanning Tree (MST), and other pertinent information derived from the project.
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
