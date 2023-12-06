@@ -1,0 +1,138 @@
+State,City,Student ID
+North Dakota ,Bismarck,Muhammad Omer Raza
+North Dakota ,Minot,Muhammad Omer Raza
+North Dakota ,Devils Lake,Muhammad Omer Raza
+North Dakota ,Jamestown,Muhammad Omer Raza
+North Dakota ,Fargo,Muhammad Omer Raza
+North Dakota ,Grand Forks,Muhammad Omer Raza
+North Dakota ,Bowman,Muhammad Omer Raza
+North Dakota ,New Town,Muhammad Omer Raza
+South Dakota ,Pierre,Sahith Krishna Palla
+South Dakota ,Mobridge,Sahith Krishna Palla
+South Dakota ,Aberdeen,Sahith Krishna Palla
+South Dakota ,Mitchell,Sahith Krishna Palla
+South Dakota ,Sioux Falls,Sahith Krishna Palla
+South Dakota ,Rapid City,Sahith Krishna Palla
+South Dakota ,Watertown,Sahith Krishna Palla
+Nebraska ,Ainsworth,Mohammed Farhan Ahmed
+Nebraska ,Omaha,Mohammed Farhan Ahmed
+Nebraska ,Columbus,Mohammed Farhan Ahmed
+Nebraska ,Lincoln,Mohammed Farhan Ahmed
+Nebraska ,Lexington,Mohammed Farhan Ahmed
+Nebraska ,Hyannis,Mohammed Farhan Ahmed
+Kansas,WaKeeney,Mohammed Zakiuddin
+Kansas,Dodge City,Mohammed Zakiuddin
+Kansas,Salina,Mohammed Zakiuddin
+Kansas,Wichita,Mohammed Zakiuddin
+Kansas,Topeka,Mohammed Zakiuddin
+Kansas,Garden City,Mohammed Zakiuddin
+Kansas,Manhattan,Mohammed Zakiuddin
+Oklahoma ,Elk City,Naga Harshitha Kovvuri 
+Oklahoma ,Cleveland,Naga Harshitha Kovvuri 
+Oklahoma ,Oklahoma City,Naga Harshitha Kovvuri 
+Oklahoma ,Norman,Naga Harshitha Kovvuri 
+Oklahoma ,McAlester,Naga Harshitha Kovvuri 
+Oklahoma ,Antlers,Naga Harshitha Kovvuri 
+Oklahoma ,Tulsa,Naga Harshitha Kovvuri 
+Oklahoma ,Ponca City,Naga Harshitha Kovvuri 
+Oklahoma ,Muskogee,Naga Harshitha Kovvuri 
+Texas,Amarillo,Matthew Paul Williams
+Texas,Dallas,Matthew Paul Williams
+Texas,Houston,Matthew Paul Williams
+Texas,Austin,Matthew Paul Williams
+Texas,San Antonio,Matthew Paul Williams
+Texas,Corpus Christi,Matthew Paul Williams
+Texas,Lubbock,Matthew Paul Williams
+Texas,Texarkana,Matthew Paul Williams
+Texas,Port Arthur,Matthew Paul Williams
+Texas,Port Lavaca,Matthew Paul Williams
+Texas,Port Isabel,Sai Kumar Bella
+Texas,Waco,Sai Kumar Bella
+Texas,College Station,Sai Kumar Bella
+Texas,Fredericksburg,Sai Kumar Bella
+Texas,San Angelo,Sai Kumar Bella
+Texas,Laredo,Sai Kumar Bella
+Texas,Del Rio,Sai Kumar Bella
+Texas,Tyler,Sai Kumar Bella
+Texas,Wichita Falls,Sai Kumar Bella
+Texas,Galveston,Sai Kumar Bella
+Louisiana ,Alexandria,Nidita Pasapula
+Louisiana ,Lake Charles,Nidita Pasapula
+Louisiana ,Lafayette,Nidita Pasapula
+Louisiana ,New Orleans,Nidita Pasapula
+Louisiana ,Baton Rouge,Nidita Pasapula
+Louisiana ,Monroe,Nidita Pasapula
+Louisiana ,Shreveport,Nidita Pasapula
+Mississippi ,Meridian,Praneeth Varma Vallabhu
+Mississippi ,Jackson,Praneeth Varma Vallabhu
+Mississippi ,Biloxi,Praneeth Varma Vallabhu
+Mississippi ,Columbus,Praneeth Varma Vallabhu
+Mississippi ,Southhaven,Praneeth Varma Vallabhu
+Mississippi ,Hattiesburg,Praneeth Varma Vallabhu
+Mississippi ,Oxford,Praneeth Varma Vallabhu
+Alabama ,Mobile,Rishika Goud Muddapuram
+Alabama ,Montgomery,Rishika Goud Muddapuram
+Alabama ,Dothan,Rishika Goud Muddapuram
+Alabama ,Birmingham,Rishika Goud Muddapuram
+Alabama ,Huntsville,Rohit Kumar Redd Kovvuri
+Alabama ,Florence,Rohit Kumar Redd Kovvuri
+Alabama ,Tuscaloosa,Rohit Kumar Redd Kovvuri
+Alabama ,Auburn,Rohit Kumar Redd Kovvuri
+Tennessee ,Kingsport,Rui Zhang
+Tennessee ,Nashville,Rui Zhang
+Tennessee ,Knoxville,Rui Zhang
+Tennessee ,Chattanooga,Rui Zhang
+Tennessee ,Clarksville,Rui Zhang
+Tennessee ,Columbia,Rui Zhang
+Tennessee ,Dyersburg,Rui Zhang
+Tennessee ,Memphis,Rui Zhang
+Arkansas ,Hot Springs,Sahdev Nikinkumar Patel
+Arkansas ,Jonesboro,Sahdev Nikinkumar Patel
+Arkansas ,West Memphis,Sahdev Nikinkumar Patel
+Arkansas ,Fayetteville,Sahdev Nikinkumar Patel
+Arkansas ,Little Rock,Sahdev Nikinkumar Patel
+Arkansas ,Conway,Sahdev Nikinkumar Patel
+Arkansas ,Texarkana,Sahdev Nikinkumar Patel
+Arkansas ,Jacksonville,Sahdev Nikinkumar Patel
+Arkansas ,Fort Smith,Sahdev Nikinkumar Patel
+Missouri,Branson,Nithin Kumar Reddy Mamidala
+Missouri,Jefferson City,Nithin Kumar Reddy Mamidala
+Missouri,Springfield,Nithin Kumar Reddy Mamidala
+Missouri,Columbia,Nithin Kumar Reddy Mamidala
+Missouri,St Joseph,Nithin Kumar Reddy Mamidala
+Missouri,Kirksville,Nithin Kumar Reddy Mamidala
+Missouri,Kansas City,Nithin Kumar Reddy Mamidala
+Missouri,Cape Girardeau,Nithin Kumar Reddy Mamidala
+Missouri,St. Louis,Nithin Kumar Reddy Mamidala
+Illinois ,Chicago,Sai Deepthi Jammula
+Illinois ,Quincy,Sai Deepthi Jammula
+Illinois ,Rock Island,Sai Deepthi Jammula
+Illinois ,Rockford,Sai Deepthi Jammula
+Illinois ,Peoria,Sai Deepthi Jammula
+Illinois ,Springfield,Sai Deepthi Jammula
+Illinois ,Champaign,Sai Deepthi Jammula
+Illinois ,Carbondale,Sai Deepthi Jammula
+Wisconsin,Milwaukee,Naga Niharika Sreekurmam
+Wisconsin,Appleton,Naga Niharika Sreekurmam
+Wisconsin,Madison,Naga Niharika Sreekurmam
+Wisconsin,Wisconsin Dells,Naga Niharika Sreekurmam
+Wisconsin,Eau Claire,Naga Niharika Sreekurmam
+Wisconsin,Green Bay,Naga Niharika Sreekurmam
+Wisconsin,Superior,Naga Niharika Sreekurmam
+Wisconsin,Wausau,Naga Niharika Sreekurmam
+Iowa,Davenport,Mourya Teja Veeramachaneni
+Iowa,Cedar Rapids,Mourya Teja Veeramachaneni
+Iowa,Des Moines,Mourya Teja Veeramachaneni
+Iowa,Fort Dodge,Mourya Teja Veeramachaneni
+Iowa,Mason City,Mourya Teja Veeramachaneni
+Iowa,Sioux City,Mourya Teja Veeramachaneni
+Iowa,Burlington,Mourya Teja Veeramachaneni
+Iowa,Waterloo,Mourya Teja Veeramachaneni
+Minnesota ,St Cloud,Rahman Mohammad
+Minnesota ,Minneapolis,Rahman Mohammad
+Minnesota ,Thief River Falls,Rahman Mohammad
+Minnesota ,Duluth,Rahman Mohammad
+Minnesota ,St Paul,Rahman Mohammad
+Minnesota ,Rochester,Rahman Mohammad
+Minnesota ,Bemidji,Rahman Mohammad
+Minnesota ,Crookston,Rahman Mohammad
