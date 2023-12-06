@@ -9,7 +9,7 @@ This project delves into the world of graph algorithms, integral to Data Structu
 ## Usage
 #### 1. Data Validation:
 - This step ensures that data meets specified crieteria, standard or rules to aiming to maintain accuracy and reliability.
-- Run this code [LDP.java](src/LDP.java) to validate your input against the **city data** and **city connections data**.
+- Run this code [src/LDP.java](srcLDP.java) to validate your input against the **city data** and **city connections data**.
 
 #### 2. Data Verification:
 - This step includes of confirming the accuracy, consistency and completeness of the data to ensure it aligns with predefined standards.
