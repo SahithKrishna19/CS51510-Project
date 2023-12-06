@@ -7,9 +7,10 @@ Download and install the appropriate Java Development Kit (JDK) for your operati
 This project delves into the world of graph algorithms, integral to Data Structures. Drawing from deep interdisciplinary research, these visually appealing algorithms, exemplified by Google Maps, find application in real-life scenarios. Focused on implementing graph algorithms and engineering heuristics, this project is considered to work on geographical map of US Central Time Zone cities. Interconnected by directed links reflecting distance as the primary cost, the project evaluates traversal costs considering topological, environmental, and human-centric factors. Using optimal data structures like priority queues, hash maps, and binary trees, algorithms such as Prim's, Kruskal's MST, BFS, Djikstra, and Bellman Ford address diverse use cases, reflecting adaptability to real-world scenarios
 
 ## Usage
+#### NOTE - All the codes are moved to src folder
 #### 1. Data Validation:
 - This step ensures that data meets specified crieteria, standard or rules to aiming to maintain accuracy and reliability.
-- Run this code [src/LDP.java](srcLDP.java) to validate your input against the **city data** and **city connections data**.
+- Run this code [LDP.java](LDP.java) to validate your input against the **city data** and **city connections data**.
 
 #### 2. Data Verification:
 - This step includes of confirming the accuracy, consistency and completeness of the data to ensure it aligns with predefined standards.
@@ -25,7 +26,6 @@ This project delves into the world of graph algorithms, integral to Data Structu
 - This java file [OptimalPath.java](OptimalPath.java) not only identifies and outputs the most efficient route but also provides comprehensive information about the path, including details on the traversals made.
 #### 4. Visualize 
 - The [MapVisualize.java](MapVisualize.java) code, empowers the graphical depiction of our constructed map and the outcomes of the implemented algorithms. This visual representation enhances comprehension of the optimal path, Minimum Spanning Tree (MST), and other pertinent information derived from the project.
-
 
 ## Contributing
 
