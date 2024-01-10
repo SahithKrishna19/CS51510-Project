@@ -1,4 +1,4 @@
-# CS51510-Project
+# An Application of Graph Algorithms to Map Construction & Traversal
 
 ## Installation
 Download and install the appropriate Java Development Kit (JDK) for your operating system, set the necessary environment variables (e.g., JAVA_HOME and PATH), and verify the installation using java -version in the terminal or command prompt.
